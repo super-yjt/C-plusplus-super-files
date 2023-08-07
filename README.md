@@ -3,9 +3,10 @@
 ## RENEW?<br/>**~~END~~**<br/>Continuously keeping up with the new<br/>
 ### ~~emm...Suddenly realized that I seemed to be missing quite a few. cpp files , But the core parts are all in place~~<br/>
 ## Directory
-* [Loop Structure](#Loop Structure)
+* [Loop Structure](#Loop Structure)<br/>
 `Fundamentals of C++ Grammar`<br/>
-> 1.Loop Structure
+# Loop Structure
+> 
 >> + [nesting loop](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Loop%20Structure/nesting%20loop.cpp)
 >> + [switch](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Loop%20Structure/switch.cpp)
 >> + [while](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Loop%20Structure/while.cpp)
