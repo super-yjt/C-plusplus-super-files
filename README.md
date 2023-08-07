@@ -16,15 +16,15 @@
 * [New_operator](#New_operator)
 * [Quote](#Quote)
 
-# Fundamentals of C++ Grammar
+## Fundamentals of C++ Grammar
 ### Loop_Structure
->> + [nesting loop](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Loop%20Structure/nesting%20loop.cpp)
->> + [switch](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Loop%20Structure/switch.cpp)
->> + [while](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Loop%20Structure/while.cpp)
->> + [do while](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Loop%20Structure/Do%20while.cpp)
->> + [Skip statement continue](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Loop%20Structure/Skip%20statement%20continue.cpp)
->> + [Skip statement break](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Loop%20Structure/Skip%20statement%20break.cpp)
->> + [Skip statement goto](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Loop%20Structure/Skip%20statement%20goto.cpp)
+>> + [nesting loop](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Loop%20Structure/nesting%20loop.cpp):The use of nested loops
+>> + [switch](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Loop%20Structure/switch.cpp):The use of switch
+>> + [while](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Loop%20Structure/while.cpp):The use of while
+>> + [do while](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Loop%20Structure/Do%20while.cpp):The use of do while
+>> + [Skip statement continue](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Loop%20Structure/Skip%20statement%20continue.cpp):The use of coninue
+>> + [Skip statement break](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Loop%20Structure/Skip%20statement%20break.cpp):The use of break
+>> + [Skip statement goto](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Loop%20Structure/Skip%20statement%20goto.cpp):The use of goto
 
 ### Training_about_loop
 >> + [Guessing Numbers](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/training/Guessing%20Numbers.cpp)
