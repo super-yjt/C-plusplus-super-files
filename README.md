@@ -20,3 +20,15 @@ Fundamentals of C++ Grammar<br/>
 >> + [Narcissistic number](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/training/Narcissistic%20number.cpp)
 >> + [Table](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/training/Table.cpp)
 >> + [if conditional sentence training](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/training/if%20conditional%20sentence%20training.cpp)
+
+> 3.array files
+>> + [array](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/array.cpp)_
+>> + [array'name](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/array'name.cpp)_
+>> + [Maximum number](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/Maximum%20number.cpp)_
+>> + [Element inversion](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/Element%20inversion.cpp)_
+>> + [bubble sort](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/bubble%20sort.cpp)_
+>> + [Two-dimensional array](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/Two-dimensional%20array.cpp)
+>> + [Two-dimensional array's training](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/Two-dimensional%20array's%20training.cpp)
+
+> 4.pointer
+>> + [pointer]https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/pointer/pointer.cpp()
