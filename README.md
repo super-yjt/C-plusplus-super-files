@@ -5,7 +5,7 @@
 ## ***Since you have seen this, please give me a `star`, it will be very helpful for me***
 
 ## ***A universal learning file containing C++from beginners to kernels***
-## RENEW?<br/>**~~END?~~** ***never***<br/>Continuously keeping up with the new<br/>
+## RENEW?<br/>**~~End?~~** ***Never!***<br/>Continuously keeping up with the new<br/>
 ## ~~emm...Suddenly realized that I seemed to be missing quite a few. cpp files , But the core parts are all in place~~<br/>
 ## Directory
 ### Fundamentals of C++ Grammar
