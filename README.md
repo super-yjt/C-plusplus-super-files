@@ -179,7 +179,9 @@ int main(void)
 ### Since you're done, give me a `star` pleaseeeeeeeeeeee!. 
 
 ###### ~~In order to write this, I also studied Markdown.~~
+
 ![image](https://github.com/super-yjt/image/blob/main/images/%E5%9B%BE%E7%89%87.jpg)
+
 `Isn't this picture a bit abrupt`
 
 - [ ] Do i have any new content today
