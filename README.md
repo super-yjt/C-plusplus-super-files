@@ -8,7 +8,7 @@
 
 ## **_Renew?_** **_~~End?~~_** **_It's Never!_** <br/> **_Continuously keeping up with the new._** <br/>
 
-## ~~Emm...Suddenly realized that I seemed to be missing quite a few. cpp files , But the core parts are all in place~~<br/>**_So it's harmless!_**<br/>
+## ~~Emm...Suddenly realized that I seemed to be missing quite a few. cpp files , But the core parts are all in place~~<br/><br/>**_So it's harmless!_**<br/>
 
 ## Directory
 ### Fundamentals of C++ Grammar
