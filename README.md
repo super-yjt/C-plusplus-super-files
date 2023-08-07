@@ -5,3 +5,7 @@
 **(Since 2023 July, it has been relatively slow to follow the new trend)<br/>
 _why?_<br/>
 I want to play games<br/>**
+### Record it, although there were already quite a few updates when writing this README<br/>
+Time|Content
+-|-|-
+July 23rd|Quote
