@@ -101,12 +101,12 @@ int main(void)
             cleanPerson(&abs);
             break;
         case 0:
-            cout << "欢迎下次使用\n";
+            cout << "Welcome to use it next time\n";
             return 0;
             system("pause");
             break;
         default:
-            cout << "输入错误\n";
+            cout << "input error\n";
             break;
         }
     }
