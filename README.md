@@ -1,6 +1,4 @@
-# C-plusplus-super-files
-
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+# C-plusplus-super-files<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
 ## **_Since you have seen this, please give me a `star`, it will be very helpful for me._**
 
@@ -9,6 +7,10 @@
 ## **_Renew?_** **_~~End?~~_** **_It's Never!_** <br/> **_Continuously keeping up with the new._** <br/>
 
 ## ~~Emm...Suddenly realized that I seemed to be missing quite a few. cpp files , But the core parts are all in place~~<br/><br/>**_So it's harmless!_**<br/>
+
+- [ ] Do i have any new content today
+- [ ] Have i finished writing the annotations
+
 
 ## Directory
 ### Fundamentals of C++ Grammar
@@ -184,5 +186,3 @@ int main(void)
 
 `Isn't this picture a bit abrupt`
 
-- [ ] Do i have any new content today
-- [ ] Have i finished writing the annotations
