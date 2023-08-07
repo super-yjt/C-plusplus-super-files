@@ -2,10 +2,6 @@
 ## ***A universal learning file containing C++from beginners to kernels***
 ### RENEW?<br/>**~~END~~**###
 Continuously keeping up with the new<br/>**(Since 2023 July, it has been relatively slow to follow the new trend)<br/>why?<br/>~~I want to play games~~<br/>**
-Record it, although there were already quite a few updates when writing this README
-> 1.July 23rd
->> + Quate
-<br/>
 Start Theme<br/>
 Fundamentals of C++ Grammar<br/>
 > 1.Loop Structure
