@@ -8,6 +8,8 @@
 * [Array files](#Array_files)
 * [Pointer](#Pointer)
 * [Writing Function Files](#Writing_Function_Files)
+* [Structure](#Structure)
+* [C++Foundation_Final_Flies](#C++Foundation_Final_Flies)
 
 # Fundamentals of C++ Grammar
 ### Loop_Structure
@@ -55,3 +57,51 @@
 >>  + [Nested structures within structures](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/structure/Nested%20structures%20within%20structures.cpp)
 >>  + [Structure and Bubble sort](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/structure/Structure%20and%20Bubble%20sort.cpp)
 >>  + [Structure Case 1](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/structure/Structure%20Case%201.cpp)
+
+### C++Foundation_Final_Flies
+>> + [Address Book Management System](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Address%20Book%20Management%20System/Address%20Book%20Management%20System.cpp)
+
+### Simple Summary:
+```
+int main(void)
+{
+    Addressbooks abs;
+    abs.m_Size = 0;
+    int select = 0;
+    while (true)
+    {
+        showMenu();
+        cin >> select;
+        switch (select)
+        {
+        case 1:
+            addPerson(&abs);
+            break;
+        case 2:
+            showPerson(&abs);
+            break;
+        case 3:
+            deletPerson(&abs);
+            break;
+        case 4:
+            findPerson(&abs);
+            break;
+        case 5:
+            modifyPerson(&abs);
+            break;
+        case 6:
+            cleanPerson(&abs);
+            break;
+        case 0:
+            cout << "欢迎下次使用\n";
+            return 0;
+            system("pause");
+            break;
+        default:
+            cout << "输入错误\n";
+            break;
+        }
+    }
+}
+```
+
