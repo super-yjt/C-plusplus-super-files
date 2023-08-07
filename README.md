@@ -5,7 +5,7 @@
 ## Directory
 * [Loop Structure](#Loop_Structure)
 * [Training about loop](#Training_about_loop)
-* [Array files](#Array_files)
+* [Array files](#Array_files)d
 * [Pointer](#Pointer)
 * [Writing Function Files](#Writing_Function_Files)
 * [Structure](#Structure)
@@ -106,7 +106,7 @@ int main(void)
 ```
 
 ### Results Display:
-[Address_Book_Management_System](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Address%20Book%20Management%20System/Address%20Book%20Management%20System%20For%20Windows.exe)
+[Address_Book_Management_System.exe](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Address%20Book%20Management%20System/Address%20Book%20Management%20System%20For%20Windows.exe)
 ```
 ******************************
 *********1.添加联系人**********
