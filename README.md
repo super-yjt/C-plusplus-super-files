@@ -27,11 +27,11 @@
 >> + [if conditional sentence training](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/training/if%20conditional%20sentence%20training.cpp)
 
 ### Array_files
->> + [array](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/array.cpp)_
->> + [array'name](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/array'name.cpp)_
->> + [Maximum number](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/Maximum%20number.cpp)_
->> + [Element inversion](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/Element%20inversion.cpp)_
->> + [bubble sort](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/bubble%20sort.cpp)_
+>> + [array](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/array.cpp)
+>> + [array'name](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/array'name.cpp)
+>> + [Maximum number](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/Maximum%20number.cpp)
+>> + [Element inversion](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/Element%20inversion.cpp)
+>> + [bubble sort](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/bubble%20sort.cpp)
 >> + [Two-dimensional array](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/Two-dimensional%20array.cpp)
 >> + [Two-dimensional array's training](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/Two-dimensional%20array's%20training.cpp)
 
@@ -45,8 +45,13 @@
 >> + [Const decorated pointer](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/pointer/Const%20decorated%20pointer.cpp)
 
 ### Writing_Function_Files
->> + [Writing Function Files](https://github.com/super-yjt/My--C-plusplus-super-files/tree/main/Writing%20Function%20Files)
+>> + [Writing Function Files](https://github.com/super-yjt/My--C-plusplus-super-files/tree/main/Writing%20Function%20Files):Can be used for multiplayer compilation
 
 ### Structure
 >>  + [Writing Function Files](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/structure/structure.cpp)
 >>  + [structure and pointer](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/structure/structure%20and%20pointer.cpp)
+>>  + [Structure as function parameter](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/structure/Structure%20as%20function%20parameter.cpp)
+>>  + [Const modified structure](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/structure/Const%20modified%20structure.cpp)
+>>  + [Nested structures within structures](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/structure/Nested%20structures%20within%20structures.cpp)
+>>  + [Structure and Bubble sort](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/structure/Structure%20and%20Bubble%20sort.cpp)
+>>  + [Structure Case 1](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/structure/Structure%20Case%201.cpp)
