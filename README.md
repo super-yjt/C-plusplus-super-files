@@ -21,6 +21,7 @@
 
 ## Fundamentals of C++ Grammar
 ### Loop_Structure
+> List:
 >> + [nesting loop](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Loop%20Structure/nesting%20loop.cpp):The use of nested loops
 >> + [switch](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Loop%20Structure/switch.cpp):The use of switch
 >> + [while](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Loop%20Structure/while.cpp):The use of while
@@ -30,6 +31,7 @@
 >> + [Skip statement goto](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Loop%20Structure/Skip%20statement%20goto.cpp):The use of goto
 
 ### Training_about_loop
+> List:
 >> + [Guessing Numbers](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/training/Guessing%20Numbers.cpp)
 >> + [Knocking on the table](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/training/Knocking%20on%20the%20table.cpp)
 >> + [Narcissistic number](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/training/Narcissistic%20number.cpp)
@@ -37,6 +39,7 @@
 >> + [if conditional sentence training](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/training/if%20conditional%20sentence%20training.cpp)
 
 ### Array_files
+> List:
 >> + [array](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/array.cpp)
 >> + [array'name](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/array'name.cpp)
 >> + [Maximum number](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/Maximum%20number.cpp)
@@ -46,6 +49,7 @@
 >> + [Two-dimensional array's training](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/Two-dimensional%20array's%20training.cpp)
 
 ### Pointer
+> List:
 >> + [pointer](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/pointer/pointer.cpp)
 >> + [Memory space where the pointer is located](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/pointer/Memory%20space%20where%20the%20pointer%20is%20located.cpp)
 >> + [Pointer and Wild Pointer](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/pointer/Pointer%20and%20Wild%20Pointer.cpp)
@@ -55,9 +59,11 @@
 >> + [Const decorated pointer](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/pointer/Const%20decorated%20pointer.cpp)
 
 ### Writing_Function_Files
+> List:
 >> + [Writing Function Files](https://github.com/super-yjt/My--C-plusplus-super-files/tree/main/Writing%20Function%20Files) : **Can be used for multiplayer compilation**
 
 ### Structure
+> List:
 >>  + [Writing Function Files](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/structure/structure.cpp)
 >>  + [structure and pointer](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/structure/structure%20and%20pointer.cpp)
 >>  + [Structure as function parameter](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/structure/Structure%20as%20function%20parameter.cpp)
@@ -67,6 +73,7 @@
 >>  + [Structure Case 1](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/structure/Structure%20Case%201.cpp)
 
 ### Address_Book_Management_System
+> List:
 >> + [Address Book Management System](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Address%20Book%20Management%20System/Address%20Book%20Management%20System.cpp)
 
 #### Simple Summary<br/>`Does not include content in function`:
@@ -131,15 +138,18 @@ int main(void)
 # C++ Core Programming
 
 ### The_Memory_Model_of_a_Program
+> List:
 >> + [Global Area](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/The%20Memory%20Model%20of%20a%20Program/Global%20Area.cpp)
 >> + [Heap area](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/The%20Memory%20Model%20of%20a%20Program/Heap%20area.cpp)
 >> + [Stack area](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/The%20Memory%20Model%20of%20a%20Program/Stack%20area.cpp)
 
 ### New_operator
+> List:
 >> + [Heap area new](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/New%20operator/Heap%20area%20new.cpp)
 >> + [New operator](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/New%20operator/New%20operator.cpp)
 
 ### Quote
+> List:
 >> + [The Essence of Quotations](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Quote/The%20Essence%20of%20Quotations.cpp)
 >> + [Referencing as a function return value](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Quote/Referencing%20as%20a%20function%20return%20value.cpp)
 >> + [Referencing as a function parameter](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Quote/Referencing%20as%20a%20function%20parameter.cpp)
