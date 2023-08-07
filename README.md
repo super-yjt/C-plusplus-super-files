@@ -1,4 +1,5 @@
 # C-plusplus-super-files
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 ## ***A universal learning file containing C++from beginners to kernels***
 ## RENEW?<br/>**~~END~~**<br/>Continuously keeping up with the new<br/>
 ## ~~emm...Suddenly realized that I seemed to be missing quite a few. cpp files , But the core parts are all in place~~<br/>
@@ -142,13 +143,4 @@ int main(void)
 >> + [Const reference](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Quote/Const%20reference.cpp)
 >> + [Basic syntax for referencing](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Quote/Basic%20syntax%20for%20referencing.cpp)
 
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
