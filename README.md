@@ -4,11 +4,11 @@
 ### ~~emm...Suddenly realized that I seemed to be missing quite a few. cpp files , But the core parts are all in place~~<br/>
 ## Directory
 * [Loop Structure](#Loop_Structure)
-* [training about loop](#training_about_loop)_
-* array files
-* pointer
+* [training about loop](#training_about_loop)
+* [array files](#array_files)
+* [pointer](#array_files)
 
-<br/>`Fundamentals of C++ Grammar`<br/>
+`Fundamentals of C++ Grammar`<br/>
 ### Loop_Structure
 >> + [nesting loop](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Loop%20Structure/nesting%20loop.cpp)
 >> + [switch](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Loop%20Structure/switch.cpp)
