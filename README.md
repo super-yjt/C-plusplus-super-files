@@ -45,7 +45,7 @@
 >> + [Const decorated pointer](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/pointer/Const%20decorated%20pointer.cpp)
 
 ### Writing_Function_Files
->> + [Writing Function Files](https://github.com/super-yjt/My--C-plusplus-super-files/tree/main/Writing%20Function%20Files):Can be used for multiplayer compilation
+>> + [Writing Function Files](https://github.com/super-yjt/My--C-plusplus-super-files/tree/main/Writing%20Function%20Files) : **Can be used for multiplayer compilation**
 
 ### Structure
 >>  + [Writing Function Files](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/structure/structure.cpp)
