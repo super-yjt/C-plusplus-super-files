@@ -1,7 +1,7 @@
 # C-plusplus-super-files
 ## ***A universal learning file containing C++from beginners to kernels***
-### RENEW?<br/>**~~END~~**
-### Continuously keeping up with the new<br/>**(Since 2023 July, it has been relatively slow to follow the new trend)<br/>why?<br/>~~I want to play games~~<br/>**
+## RENEW?<br/>**~~END~~**Continuously keeping up with the new<br/>
+## **Since 2023 July, it has been relatively slow to follow the new trend<br/>why?<br/>~~I want to play games~~<br/>**
 ### ~~emm...Suddenly realized that I seemed to be missing quite a few. cpp files , But the core parts are all in place~~<br/>
 Start Theme<br/>
 Fundamentals of C++ Grammar<br/>
