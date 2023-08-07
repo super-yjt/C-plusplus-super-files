@@ -122,18 +122,6 @@ int main(void)
 
 #### Results Display:
 [Address_Book_Management_System.exe](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Address%20Book%20Management%20System/Address%20Book%20Management%20System%20For%20Windows.exe)
-```c++
-******************************
-*********1.添加联系人**********
-*********2.显示联系人**********
-*********3.删除联系人**********
-*********4.查找联系人**********
-*********5.修改联系人**********
-*********6.清空通讯录**********
-*********0.推出通讯录**********
-*******输入数字使用功能********
-******************************
-```
 
 # C++ Core Programming
 
