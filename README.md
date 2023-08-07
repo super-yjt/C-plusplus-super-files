@@ -3,13 +3,18 @@
 ## RENEW?<br/>**~~END~~**<br/>Continuously keeping up with the new<br/>
 ### ~~emm...Suddenly realized that I seemed to be missing quite a few. cpp files , But the core parts are all in place~~<br/>
 ## Directory
+### Fundamentals of C++ Grammar
 * [Loop Structure](#Loop_Structure)
 * [Training about loop](#Training_about_loop)
-* [Array files](#Array_files)d
+* [Array files](#Array_files)
 * [Pointer](#Pointer)
 * [Writing Function Files](#Writing_Function_Files)
 * [Structure](#Structure)
 * [Address_Book_Management_System](#Address_Book_Management_System)
+### C++ Core Programming
+* [The_Memory_Model_of_a_Program](#The_Memory_Model_of_a_Program)
+* [New_operator](#New_operator)
+* [Quote](#Quote)
 
 # Fundamentals of C++ Grammar
 ### Loop_Structure
@@ -61,7 +66,7 @@
 ### Address_Book_Management_System
 >> + [Address Book Management System](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Address%20Book%20Management%20System/Address%20Book%20Management%20System.cpp)
 
-### Simple Summary`Does not include content in function`:
+#### Simple Summary`Does not include content in function`:
 ```
 int main(void)
 {
@@ -105,7 +110,7 @@ int main(void)
 }
 ```
 
-### Results Display:
+#### Results Display:
 [Address_Book_Management_System.exe](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Address%20Book%20Management%20System/Address%20Book%20Management%20System%20For%20Windows.exe)
 ```
 ******************************
@@ -120,4 +125,20 @@ int main(void)
 ******************************
 ```
 
+### The_Memory_Model_of_a_Program
+>> + [Global Area](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/The%20Memory%20Model%20of%20a%20Program/Global%20Area.cpp)
+>> + [Heap area](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/The%20Memory%20Model%20of%20a%20Program/Heap%20area.cpp)
+>> + [Stack area](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/The%20Memory%20Model%20of%20a%20Program/Stack%20area.cpp)
+
+### New_operator
+>> + [Heap area new](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/New%20operator/Heap%20area%20new.cpp)
+>> + [New operator](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/New%20operator/New%20operator.cpp)
+
+### Quote
+>> + [The Essence of Quotations](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Quote/The%20Essence%20of%20Quotations.cpp)
+>> + [Referencing as a function return value](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Quote/Referencing%20as%20a%20function%20return%20value.cpp)
+>> + [Referencing as a function parameter](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Quote/Referencing%20as%20a%20function%20parameter.cpp)
+>> + [Notes on Citation](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Quote/Notes%20on%20Citation.cpp)
+>> + [Const reference](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Quote/Const%20reference.cpp)
+>> + [Basic syntax for referencing](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Quote/Basic%20syntax%20for%20referencing.cpp)
 
