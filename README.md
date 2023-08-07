@@ -31,4 +31,4 @@ Fundamentals of C++ Grammar<br/>
 >> + [Two-dimensional array's training](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/Two-dimensional%20array's%20training.cpp)
 
 > 4.pointer
->> + [pointer]https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/pointer/pointer.cpp()
+>> + [pointer](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/pointer/pointer.cpp)
