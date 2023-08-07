@@ -54,13 +54,13 @@
 
 > List:
 >
-> > - [array](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/array.cpp)
-> > - [array'name](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/array'name.cpp)
-> > - [Maximum number](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/Maximum%20number.cpp)
-> > - [Element inversion](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/Element%20inversion.cpp)
-> > - [bubble sort](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/bubble%20sort.cpp)
-> > - [Two-dimensional array](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/Two-dimensional%20array.cpp)
-> > - [Two-dimensional array's training](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/Two-dimensional%20array's%20training.cpp)
+> > - [array](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/array.cpp):Introduction to Arrays
+> > - [array'name](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/array'name.cpp):Address of array
+> > - [Maximum number](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/Maximum%20number.cpp):Find the largest one in the element
+> > - [Element inversion](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/Element%20inversion.cpp):Invert the corresponding element
+> > - [bubble sort](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/bubble%20sort.cpp):Sort elements in descending order
+> > - [Two-dimensional array](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/Two-dimensional%20array.cpp):Understanding 2D Arrays
+> > - [Two-dimensional array's training](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/array%20files/Two-dimensional%20array's%20training.cpp):2D array training
 
 ### Pointer
 
@@ -180,3 +180,7 @@ int main(void)
 
 ###### ~~In order to write this, I also studied Markdown.~~
 ![image](https://github.com/super-yjt/image/blob/main/images/%E5%9B%BE%E7%89%87.jpg)
+`Isn't this picture a bit abrupt`
+
+- [ ] Do i have any new content today
+- [ ] Have i finished writing the annotations
