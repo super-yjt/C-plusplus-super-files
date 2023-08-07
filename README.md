@@ -1,4 +1,3 @@
-![image](https://github.com/super-yjt/image/blob/main/images/%E5%9B%BE%E7%89%87.jpg)
 # C-plusplus-super-files
 ## ***A universal learning file containing C++from beginners to kernels***
 ## RENEW?<br/>**~~END~~**<br/>Continuously keeping up with the new<br/>
