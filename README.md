@@ -219,7 +219,7 @@ int main(void)
 | 2023/8/7  | Pointer                                                                                          | updated              |
 | 2023/8/7  | Writing Function Files                                                                           | updated              |
 | 2023/8/7  | Structure                                                                                        | updated              |
-| 2023/8/7  | Address_Book_Management_System                                                                   | updated              |
+| 2023/8/7  | Address Book Management System                                                                   | updated              |
 | 2023/8/8  | Update log                                                                                       | No comments required |
 | 2023/8/9  | Pointer                                                                                          | updated              |
 | 2023/8/9  | The issue of modifying the name of the structural file`Writing Function Files -> structure`      | No comments required |
