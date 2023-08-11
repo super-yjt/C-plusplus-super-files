@@ -212,7 +212,7 @@ int main(void)
 
 | Time      | Content                                                                                          | Explanatory note     |
 | --------- | ------------------------------------------------------------------------------------------------ | -------------------- |
-| 2023/8/6  | The world of C++ .md                                                                             | No comments required |
+| 2023/8/6  | README.md                                                                                        | No comments required |
 | 2023/8/7  | Loop Structure                                                                                   | updated              |
 | 2023/8/7  | Training about loop                                                                              | updated              |
 | 2023/8/7  | Array files                                                                                      | updated              |
