@@ -232,5 +232,5 @@ int main(void)
 | 2023/8/9  | New and Delete operator                                                                          | updated              |
 | 2023/8/9  | Quote                                                                                            | updated              |
 | 2023/8/11 | UI changes                                                                                       | No comments required |
-| 2023/8/11 | Code Area                                                                                        | updated              |
+| 2023/8/11 | The_Memory_Model_of_a_Program + `Code Area`                                                      | updated              |
 ---
