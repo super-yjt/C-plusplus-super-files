@@ -41,9 +41,6 @@
 - [New operator](#new_operator)
 - [Quote](#quote)
 
-
-### Another
-- [Update log](#Update_log)
 ---
 
 ## Fundamentals of C++ Grammar
@@ -82,7 +79,6 @@
 ### Pointer
 
 > - List:
-
 > - [pointer](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/pointer/pointer.cpp):Understanding pointers
 > - [Memory space where the pointer is located](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/pointer/Memory%20space%20where%20the%20pointer%20is%20located.cpp):Understanding the Byte Size of Pointers
 > - [Pointer and Wild Pointer](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/pointer/Pointer%20and%20Wild%20Pointer.cpp):Understanding the Finger Field Pointer
