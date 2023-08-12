@@ -200,11 +200,7 @@ int main(void)
 
 ###### `QQ : 1520650959`
 
-###### `Gmail : yangjingtian081112@gmail.com`
-
----
-
-### Bye~~~~~~~~~~~~~~~~~~~~~~~~~
+###### `Gmail : DesdenmoraMilitant@gmail.com`
 
 ---
 
@@ -233,4 +229,8 @@ int main(void)
 | 2023/8/9  | Quote                                                                                            | updated              |
 | 2023/8/11 | UI changes                                                                                       | No comments required |
 | 2023/8/11 | The_Memory_Model_of_a_Program + `Code Area`                                                      | updated              |
+---
+
+### Bye~~~~~~~~~~~~~~~~~~~~~~~~~
+
 ---
