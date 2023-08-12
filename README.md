@@ -14,8 +14,8 @@
 
 ---
 
-- [x] Do I have any new content today
-- [x] Have I finished writing the annotations
+- [ ] Do I have any new content today
+- [ ] Have I finished writing the annotations
 
 ---
 
