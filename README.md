@@ -1,8 +1,17 @@
 # C-plusplus-super-files
 
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+---
 
-## You can find me at `https://github.com/super-yjt/C-plusplus-super-files`
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+### Please note that documentation translations may be outdated, try to use `Chinese` documentation if possible.
+---
+### Other languages ​​are being translated
+
+#### ·[简体中文](): 建议阅读此语言翻译
+
+#### ·[English]()： **Machine translation may have significant errors**
+
+---
 
 ## **_Since you have seen this, please give me a `star`, it will be very helpful for me._**
 
@@ -10,12 +19,10 @@
 
 ## **_Renew?_** **_~~End?~~_** **_It's Never!_** <br/> **_Continuously keeping up with the new._** <br/>
 
-## ~~Emm...Suddenly realized that I seemed to be missing quite a few. cpp files , But the core parts are all in place~~<br/><br/>**_So it's harmless!_**<br/>
-
 ---
 
-- [ ] Do I have any new content today
-- [ ] Have I finished writing the annotations
+- [x] Do I have any new content today
+- [x] Have I finished writing the annotations
 
 ---
 
@@ -40,6 +47,12 @@
 - [The Memory Modelof a Program](#the_memory_model_of_a_program)
 - [New operator](#new_operator)
 - [Quote](#quote)
+- [Function Advanced](#Function_Advanced)
+- [Team Management System](#Team_Management_System)
+
+### Another
+
+- [Update log](#Update_log)
 
 ---
 
@@ -153,7 +166,7 @@ int main(void)
 }
 ```
 
-#### Results Display：
+### Results Display：
 
 > - List:
 > - [Address_Book_Management_System.exe](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Address%20Book%20Management%20System/Address%20Book%20Management%20System%20For%20Windows.exe):Present as an`. exe` file
@@ -186,9 +199,158 @@ int main(void)
 > - [Referencing as a function parameter](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Quote/Referencing%20as%20a%20function%20parameter.cpp):As the file name suggests
 > - [Referencing as a function return value](https://github.com/super-yjt/My--C-plusplus-super-files/blob/main/Quote/Referencing%20as%20a%20function%20return%20value.cpp):As the file name suggests
 
+### Function_Advanced
+
+> - List
+> - [Placeholder parameters of functions](https://github.com/super-yjt/C-plusplus-super-files/blob/main/Function%20Advanced/Default%20parameters%20for%20functions.cpp):About placeholder parameters
+> - [Precautions for Function Overloading](https://github.com/super-yjt/C-plusplus-super-files/blob/main/Function%20Advanced/Precautions%20for%20Function%20Overloading.cpp):case
+> - [function overloading](https://github.com/super-yjt/C-plusplus-super-files/blob/main/Function%20Advanced/function%20overloading.cpp):Precautions
+> - [Default parameters for functions](https://github.com/super-yjt/C-plusplus-super-files/blob/main/Function%20Advanced/Default%20parameters%20for%20functions.cpp):Precautions
+
+### Team_Management_System
+
+> - List
+> - [Team Management System](https://github.com/super-yjt/C-plusplus-super-files/blob/main/Team%20Management%20System_/Team%20Management%20System.cpp):About a team management system
+
+#### Simple Summary<br/>`Doesn't include content in function`
+
+```c++ {.line-numbers}
+int main(void)
+{
+    m_team abs;
+    abs.teamarray[0].t_name = "Golden_State_Warriors";
+    abs.teamarray[0].t_plan.c_time = "2023 / 08 / 27 ~2023 / 09 / 05";
+    abs.teamarray[0].t_plan.e_time = "2023 / 09 / 10 ~2023 / 09 / 30";
+    abs.teamarray[0].t_plan.o_time = "2023 / 10 / 01 ~2023 / 10 / 10";
+    abs.teamarray[0].t_plan.h_time = "2023 / 12 / 24 ~2024 / 01 / 01";
+    abs.teamarray[0].t_plan.s_time = "2023 / 11 / 15 ~2023 / 11 / 20";
+    abs.teamarray[0].t_plan.c_team_c = "LAL";
+    abs.teamarray[0].t_plan.pl_size = true;
+    abs.teamarray[0].playerarray[0].name = "Stephen Curry";
+    abs.teamarray[0].playerarray[0].age = 34;
+    abs.teamarray[0].playerarray[0].Contact_information = "secrecy";
+    abs.teamarray[0].playerarray[1].name = "Klay Thompson";
+    abs.teamarray[0].playerarray[1].age = 31;
+    abs.teamarray[0].playerarray[1].Contact_information = "secrecy";
+    abs.teamarray[0].playerarray[2].name = "Chris Paul";
+    abs.teamarray[0].playerarray[2].age = 38;
+    abs.teamarray[0].playerarray[2].Contact_information = "secrecy";
+    abs.teamarray[0].playerarray[3].name = "Kevin Durant";
+    abs.teamarray[0].playerarray[3].age = 33;
+    abs.teamarray[0].playerarray[3].Contact_information = "secrecy";
+    abs.teamarray[0].playerarray[4].name = "Andrew Wiggins";
+    abs.teamarray[0].playerarray[4].age = 26;
+    abs.teamarray[0].playerarray[4].Contact_information = "secrecy";
+    abs.teamarray[0].playerarray[5].name = "Draymond Green";
+    abs.teamarray[0].playerarray[5].age = 32;
+    abs.teamarray[0].playerarray[5].Contact_information = "secrecy";
+    abs.teamarray[0].playerarray[6].name = "Kevon Looney";
+    abs.teamarray[0].playerarray[6].age = 25;
+    abs.teamarray[0].playerarray[6].Contact_information = "secrecy";
+    abs.teamarray[0].playerarray[7].name = "Jordan Poole";
+    abs.teamarray[0].playerarray[7].age = 21;
+    abs.teamarray[0].playerarray[7].Contact_information = "secrecy";
+    abs.teamarray[0].playerarray[8].name = "Moses Moody";
+    abs.teamarray[0].playerarray[8].age = 19;
+    abs.teamarray[0].playerarray[8].Contact_information = "secrecy";
+    abs.teamarray[0].playerarray[9].name = "James Wiseman";
+    abs.teamarray[0].playerarray[9].age = 20;
+    abs.teamarray[0].playerarray[9].Contact_information = "secrecy";
+    abs.teamarray[0].playerarray[10].name = "Nemanja Bjelica";
+    abs.teamarray[0].playerarray[10].age = 33;
+    abs.teamarray[0].playerarray[10].Contact_information = "secrecy";
+    abs.teamarray[0].playerarray[11].name = "Andre Iguodala";
+    abs.teamarray[0].playerarray[11].age = 37;
+    abs.teamarray[0].playerarray[11].Contact_information = "secrecy";
+    abs.teamarray[0].p_size = abs.teamarray[0].p_size + 12;
+    abs.t_size++;
+    abs.teamarray[1].t_name = "Los_Angeles_Lakers";
+    abs.teamarray[1].t_plan.c_time = "2023 / 09 / 01 ~2023 / 09 / 10";
+    abs.teamarray[1].t_plan.e_time = "2023 / 09 / 15 ~2023 / 09 / 20";
+    abs.teamarray[1].t_plan.o_time = "2023 / 08 / 01 ~2023 / 08 / 31";
+    abs.teamarray[1].t_plan.h_time = "2023 / 12 / 20 ~2024 / 01 / 03";
+    abs.teamarray[1].t_plan.s_time = "2023 / 11 / 25 ~2023 / 11 / 28";
+    abs.teamarray[1].t_plan.c_team_c = "WSG";
+    abs.teamarray[1].t_plan.pl_size = true;
+    abs.teamarray[1].playerarray[0].name = "LeBron James";
+    abs.teamarray[1].playerarray[0].age = 36;
+    abs.teamarray[1].playerarray[0].Contact_information = "secrecy";
+    abs.teamarray[1].playerarray[1].name = "Anthony Davis";
+    abs.teamarray[1].playerarray[1].age = 28;
+    abs.teamarray[1].playerarray[1].Contact_information = "secrecy";
+    abs.teamarray[1].playerarray[2].name = "Russell Westbrook";
+    abs.teamarray[1].playerarray[2].age = 32;
+    abs.teamarray[1].playerarray[2].Contact_information = "secrecy";
+    abs.teamarray[1].playerarray[3].name = "Talen Horton-Tucker";
+    abs.teamarray[1].playerarray[3].age = 20;
+    abs.teamarray[1].playerarray[3].Contact_information = "secrecy";
+    abs.teamarray[1].playerarray[4].name = "Dwight Howard";
+    abs.teamarray[1].playerarray[4].age = 35;
+    abs.teamarray[1].playerarray[4].Contact_information = "secrecy";
+    abs.teamarray[1].playerarray[5].name = "Kendrick Nunn";
+    abs.teamarray[1].playerarray[5].age = 26;
+    abs.teamarray[1].playerarray[5].Contact_information = "secrecy";
+    abs.teamarray[1].playerarray[6].name = "Kent Bazemore";
+    abs.teamarray[1].playerarray[6].age = 32;
+    abs.teamarray[1].playerarray[6].Contact_information = "secrecy";
+    abs.teamarray[1].playerarray[7].name = "Malik Monk";
+    abs.teamarray[1].playerarray[7].age = 23;
+    abs.teamarray[1].playerarray[7].Contact_information = "secrecy";
+    abs.teamarray[1].playerarray[8].name = "Carmelo Anthony";
+    abs.teamarray[1].playerarray[8].age = 37;
+    abs.teamarray[1].playerarray[8].Contact_information = "secrecy";
+    abs.teamarray[1].playerarray[9].name = "Austin Reaves";
+    abs.teamarray[1].playerarray[9].age = 22;
+    abs.teamarray[1].playerarray[9].Contact_information = "secrecy";
+    abs.teamarray[1].playerarray[10].name = "Wayne Ellington";
+    abs.teamarray[1].playerarray[10].age = 34;
+    abs.teamarray[1].playerarray[10].Contact_information = "secrecy";
+    abs.teamarray[1].playerarray[11].name = "Marc Gasol";
+    abs.teamarray[1].playerarray[11].age = 36;
+    abs.teamarray[1].playerarray[11].Contact_information = "secrecy";
+    abs.teamarray[1].p_size = abs.teamarray[1].p_size + 12;
+    abs.t_size++;
+    string swap;
+    int Input_Content;
+    while (true)
+    {
+        Menu();
+        cin >> Input_Content;
+        switch (Input_Content)
+        {
+        case 1:
+            R_team(abs);
+            break;
+        case 2:
+            D_team(abs);
+            break;
+        case 3:
+            A_team(abs);
+            break;
+        case 4:
+            P_team(abs);
+            break;
+        case 5:
+            F_team(abs);
+            break;
+        case 0:
+            cout << ":: Welcome to use it next time";
+            return 0;
+            pause();
+            system("clear");
+        default:
+            cout << ":: input error\n";
+            pause();
+            system("clear");
+            break;
+        }
+    }
+}
+```
+
 ---
 
-## I can't believe you're reading so fast , and I'm very glad you read it
+## I'm very glad you read it
 
 ### Since you're done, give me a `star` pleaseeeeeeeeeeee!.
 
@@ -208,14 +370,14 @@ int main(void)
 
 | Time      | Content                                                                                          | Explanatory note     |
 | --------- | ------------------------------------------------------------------------------------------------ | -------------------- |
-| 2023/8/6  | README.md                                                                                        | No comments required |
+| 2023/8/6  | The world of C++ .md                                                                             | No comments required |
 | 2023/8/7  | Loop Structure                                                                                   | updated              |
 | 2023/8/7  | Training about loop                                                                              | updated              |
 | 2023/8/7  | Array files                                                                                      | updated              |
 | 2023/8/7  | Pointer                                                                                          | updated              |
 | 2023/8/7  | Writing Function Files                                                                           | updated              |
 | 2023/8/7  | Structure                                                                                        | updated              |
-| 2023/8/7  | Address Book Management System                                                                   | updated              |
+| 2023/8/7  | Address_Book_Management_System                                                                   | updated              |
 | 2023/8/8  | Update log                                                                                       | No comments required |
 | 2023/8/9  | Pointer                                                                                          | updated              |
 | 2023/8/9  | The issue of modifying the name of the structural file`Writing Function Files -> structure`      | No comments required |
@@ -228,7 +390,10 @@ int main(void)
 | 2023/8/9  | New and Delete operator                                                                          | updated              |
 | 2023/8/9  | Quote                                                                                            | updated              |
 | 2023/8/11 | UI changes                                                                                       | No comments required |
-| 2023/8/11 | The_Memory_Model_of_a_Program + `Code Area`                                                      | updated              |
+| 2023/8/11 | Code Area                                                                                        | updated              |
+| 2023/9/2  | Function Advanced                                                                                | update               |
+| 2023/9/2  | Team Management System                                                                           | update               |
+
 ---
 
 ### Bye~~~~~~~~~~~~~~~~~~~~~~~~~
