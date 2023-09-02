@@ -392,8 +392,8 @@ int main(void)
 | 2023/8/9  | Quote                                                                                            | updated              |
 | 2023/8/11 | UI changes                                                                                       | No comments required |
 | 2023/8/11 | Code Area                                                                                        | updated              |
-| 2023/9/2  | Function Advanced                                                                                | update               |
-| 2023/9/2  | Team Management System                                                                           | update               |
+| 2023/9/2  | Function Advanced                                                                                | updated              |
+| 2023/9/2  | Team Management System                                                                           | updated              |
 
 ---
 
