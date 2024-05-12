@@ -8,9 +8,6 @@
 ---
 ### Other languages ​​are being translated
 
-#### ·[简体中文](): 建议阅读此语言翻译
-
-#### ·[English]()： **Machine translation may have significant errors**
 
 ---
 
@@ -22,8 +19,8 @@
 
 ---
 
-- [x] Do I have any new content today
-- [x] Have I finished writing the annotations
+- [] Do I have any new content today
+- [] Have I finished writing the annotations
 
 ---
 
